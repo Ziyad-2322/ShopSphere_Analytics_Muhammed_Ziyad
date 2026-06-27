@@ -39,10 +39,6 @@ Provides a high-level summary of business performance including:
 - Sales by Category
 - Profit by Region
 
-> **Screenshot**
-
-Replace this with your Page 1 screenshot.
-
 ![Executive Overview](Screenshots/page1.png)
 
 ---
@@ -59,8 +55,6 @@ Features:
 - Return Rate by Category
 - Product Profit Analysis
 
-> **Screenshot**
-
 ![Product & Profitability](Screenshots/page2.png)
 
 ---
@@ -76,8 +70,6 @@ Provides customer behavior analysis including:
 
 **Note:** Customer acquisition is analyzed using **First Purchase Date** instead of JoinDate for better business accuracy.
 
-> **Screenshot**
-
 ![Customer Insights](Screenshots/page3.png)
 
 ---
@@ -91,8 +83,6 @@ Detailed order-level information including:
 - Gross Profit
 - Interactive order table
 - Drill-through functionality
-
-> **Screenshot**
 
 ![Customer Order Details](Screenshots/page4.png)
 
