@@ -43,9 +43,7 @@ Provides a high-level summary of business performance including:
 
 Replace this with your Page 1 screenshot.
 
-```markdown
 ![Executive Overview](Screenshots/page1.png)
-```
 
 ---
 
@@ -63,9 +61,7 @@ Features:
 
 > **Screenshot**
 
-```markdown
 ![Product & Profitability](Screenshots/page2.png)
-```
 
 ---
 
@@ -82,9 +78,7 @@ Provides customer behavior analysis including:
 
 > **Screenshot**
 
-```markdown
 ![Customer Insights](Screenshots/page3.png)
-```
 
 ---
 
@@ -100,9 +94,7 @@ Detailed order-level information including:
 
 > **Screenshot**
 
-```markdown
 ![Customer Order Details](Screenshots/page4.png)
-```
 
 ---
 
